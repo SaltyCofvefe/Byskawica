@@ -1,2 +1,2 @@
 # Byskawica
-Byskawica partisan gun for arma 3
+Beta version of Byskawica partisan gun for arma 3
